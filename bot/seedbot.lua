@@ -232,15 +232,16 @@ function create_config( )
     "antilink",
     "admin"
     },
-    sudo_users = {146340607,163180332,156907037,134177004},--Sudo users
+    sudo_users = {89655129,146340607},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[SPARTACUS Robot Ver 3.7
 AntispamBot : @tele_sparta
 Our Channel : @sparta_antispam
-Admins
-@blackhacker666 [Developer]
-http://uupload.ir/files/mxct_tele_spartacus.jpg
+SUDO : 
+@wolfsm [Developer]
+special thanks to @blackhacker666
+http://uupload.ir/files/7931_photo_2016-02-06_10-14-50.jpg
 ]],
     help_text_realm = [[
 Realm Commands:
