@@ -236,8 +236,8 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[SPARTACUS Robot Ver 3.7
-AntispamBot : @tele_sparta
-Our Channel : @sparta_antispam
+AntispamBot : @signalrobot
+Our Channel : @signal_robot
 SUDO : 
 @wolfsm [Developer]
 special thanks to @blackhacker666
