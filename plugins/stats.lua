@@ -120,7 +120,7 @@ local function run(msg, matches)
         return
       end
     end
-    if matches[2] == "spartacus" then -- Put everything you like :)
+    if matches[2] == "signalbot" then -- Put everything you like :)
       if not is_admin(msg) then
         return "For admins only !"
       else
